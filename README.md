@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 [![GitHub jimmyfielding](https://img.shields.io/github/followers/jimmyfielding?label=follow&style=social)](https://github.com/jimmyfielding)
 <br />
 <br />
-Hi, I'm Jim Fielding, a passionate software engineer from London.
+Hi, I'm Jim Fielding, a passionate software engineer from London. I'm a platform engineer at [Popsa](https://popsa.com/).
 
 - 🔭 I’m currently working on an artifact metadata project called Odin
-- 🌱 I’m currently learning Javascript & Typescript
+- 🌱 Interested in dev-ops, compilers and machine learning
 - 👯 I’m looking to contribute to more open source projects
 - 💬 Ask me about anything [here](https://github.com/jimmyfielding/jimmyfielding/issues)
 
