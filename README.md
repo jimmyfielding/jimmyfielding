@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 
 [![Linkedin: jimfielding](https://img.shields.io/badge/-jimfielding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jim-fielding-129339151/)](https://www.linkedin.com/in/jim-fielding-129339151/)
 [![GitHub jimmyfielding](https://img.shields.io/github/followers/jimmyfielding?label=follow&style=social)](https://github.com/jimmyfielding)
-
 <br />
 <br />
-
 Hi, I'm Jim Fielding, a passionate software engineer from London.
 
 - 🔭 I’m currently working on an artifact metadata project called Odin
@@ -78,9 +76,6 @@ Hi, I'm Jim Fielding, a passionate software engineer from London.
 <a><img height="20" src="https://cdn.svgporn.com/logos/redux.svg"></a>
 <a><img height="20" src="https://cdn.svgporn.com/logos/rust.svg"></a>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyfielding"/>
-</a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmyfielding&show_icons=true&line_height=27" alt="Jim's Github stats" />
 </a>
