@@ -31,6 +31,7 @@ Here are some ideas to get you started:
     </a>
   </div
 </div>
+<div style="clear:both; font-size:1px;"></div>
 
 <div>
   <table>
