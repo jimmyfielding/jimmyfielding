@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jimmyfielding&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/jimmyfielding/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyfielding" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyfielding&count_private=true" />
 </a>
