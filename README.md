@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <tr valign="top">
       <td width="25%" align="center">
         <span>Go</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
