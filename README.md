@@ -12,87 +12,75 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there, I'm Jim 👋
 
 [![Linkedin: jimfielding](https://img.shields.io/badge/-jimfielding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jim-fielding-129339151/)](https://www.linkedin.com/in/jim-fielding-129339151/)
 [![GitHub jimmyfielding](https://img.shields.io/github/followers/jimmyfielding?label=follow&style=social)](https://github.com/jimmyfielding)
 
-<div style="display:flex;">
-  <div style="float:left;width:45%;">
-    <p>Test</p>
-    <ul>
-      <li>1</li>
-      <li>2</li>
-      <li>3</li>
-    </ul>
-  </div>
-  <div style="float:right;width:45%;">
-    <a href="https://github.com/jimmyfielding/">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=jimmyfielding&count_private=true&show_icons=true" />
-    </a>
-  </div
-</div>
-<div style="clear:both; font-size:1px;"></div>
+<br />
+<br />
 
-<div>
-  <table>
-    <tbody>
-      <tr valign="top">
-        <td width="12.5%" align="center">
-          <span>Go</span><br><br><br>
-          <img height="32px" src="https://cdn.svgporn.com/logos/gopher.svg">
-        </td>
-        <td width="12.5%" align="center">
-          <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-          <img height="32px" src="https://cdn.svgporn.com/logos/css-3.svg">
-        </td>
-        <td width="12.5%" align="center">
-          <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-          <img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg">
-        </td>
-        <td width="12.5%" align="center">
-          <span>𝗩𝘂𝗲</span><br><br><br>
-          <img height="32px" src="https://cdn.svgporn.com/logos/vue.svg">
-        </td>
-      </tr>
-      <tr valign="top">
-        <td width="25%" align="center">
-          <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-        </td>
-        <td width="25%" align="center">
-          <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-        </td>
-        <td width="25%" align="center">
-          <span>𝗚𝗶𝘁</span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-        </td>
-        <td width="25%" align="center">
-          <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-        </td>
-      </tr>
-      <tr valign="top">
-        <td width="25%" align="center">
-          <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-        </td>
-        <td width="25%" align="center">
-          <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-        </td>
-        <td width="25%" align="center">
-          <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-        </td>
-        <td width="25%" align="center">
-          <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <a href="https://github.com/jimmyfielding/">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyfielding&show_icons=true" />
-  </a>
-</div>
+Hi, I'm Jim Fielding, a passionate software engineer from London.
+
+- 🔭 I’m currently working on an artifact metadata project called Odin
+- 🌱 I’m currently learning Javascript & Typescript
+- 👯 I’m looking to contribute to more open source projects
+- 💬 Ask me about anything [here](https://github.com/jimmyfielding/jimmyfielding/issues)
+
+**Languages:**
+<br />
+<br />
+<a><img height="20" src="https://cdn.svgporn.com/logos/gopher.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/scala.svg"></a>
+
+**Tools:**
+<br />
+<br />
+<a><img height="20" src="https://cdn.svgporn.com/logos/docker-icon.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/kubernetes.svg"></a>
+<a><img height="20" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/serverless.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/prometheus.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/grafana.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/vault.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/github-icon.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/postman.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/kibana.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/terraform.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/sentry.svg"></a>
+
+**Databases:**
+<br />
+<br />
+<a><img height="20" src="https://cdn.svgporn.com/logos/aws-dynamodb.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/elasticsearch.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></a>
+
+**Cloud Services:**
+<br />
+<br />
+<a><img height="15" src="https://cdn.svgporn.com/logos/aws.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/google-cloud-platform.svg"></a>
+
+**Learning:**
+<br />
+<br />
+<a><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
+<a><img height="15" src="https://cdn.svgporn.com/logos/npm.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/html-5.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/css-3.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/redux.svg"></a>
+<a><img height="20" src="https://cdn.svgporn.com/logos/rust.svg"></a>
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyfielding"/>
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmyfielding&show_icons=true&line_height=27" alt="Jim's Github stats" />
+</a>
