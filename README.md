@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 [![Linkedin: jimfielding](https://img.shields.io/badge/-jimfielding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jim-fielding-129339151/)](https://www.linkedin.com/in/jim-fielding-129339151/)
 [![GitHub jimmyfielding](https://img.shields.io/github/followers/jimmyfielding?label=follow&style=social)](https://github.com/jimmyfielding)
 
-<div>
-  <div style="float:left;width=40%">
+<div style="display:flex;">
+  <div>
     <p>Test</p>
     <ul>
       <li>1</li>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       <li>3</li>
     </ul>
   </div>
-  <div style="float:left;width=40%">
+  <div>
     <a href="https://github.com/jimmyfielding/">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=jimmyfielding&count_private=true&show_icons=true" />
     </a>
