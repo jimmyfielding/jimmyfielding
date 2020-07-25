@@ -17,14 +17,19 @@ Here are some ideas to get you started:
 [![GitHub jimmyfielding](https://img.shields.io/github/followers/jimmyfielding?label=follow&style=social)](https://github.com/jimmyfielding)
 
 <div>
-  <p>Test</p>
-  <ul>
-    <li>1</li>
-    <li>2</li>
-    <li>3</li>
-  <a href="https://github.com/jimmyfielding/">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jimmyfielding&count_private=true&show_icons=true" />
-  </a>
+  <div style="float:left">
+    <p>Test</p>
+    <ul>
+      <li>1</li>
+      <li>2</li>
+      <li>3</li>
+    </ul>
+  </div>
+  <div style="float:left">
+    <a href="https://github.com/jimmyfielding/">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=jimmyfielding&count_private=true&show_icons=true" />
+    </a>
+  </div
 </div>
 
 <div>
