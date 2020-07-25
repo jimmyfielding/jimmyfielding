@@ -11,14 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Jim's github stats](https://github-readme-stats.vercel.app/api?username=jimmyfielding&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyfielding)](https://github.com/jimmyfielding/)
 -->
 
 <a href="https://github.com/jimmyfielding/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jimmyfielding&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/jimmyfielding/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyfielding&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyfielding&show_icons=true" />
 </a>
