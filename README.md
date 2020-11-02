@@ -66,6 +66,7 @@ Hi, I'm Jim Fielding, a passionate software engineer from London. I'm a platform
 **Learning:**
 <br />
 <br />
+<a><img height="20" src="https://cdn.svgporn.com/logos/c.svg"></a>
 <a><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></a>
 <a><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a>
 <a><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
