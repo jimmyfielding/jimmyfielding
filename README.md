@@ -76,7 +76,3 @@ Hi, I'm Jim Fielding, a passionate software engineer from London. I'm a platform
 <a><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></a>
 <a><img height="20" src="https://cdn.svgporn.com/logos/redux.svg"></a>
 <a><img height="20" src="https://cdn.svgporn.com/logos/rust.svg"></a>
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmyfielding&show_icons=true&line_height=27" alt="Jim's Github stats" />
-</a>
