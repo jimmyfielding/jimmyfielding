@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![GitHub jimmyfielding](https://img.shields.io/github/followers/jimmyfielding?label=follow&style=social)](https://github.com/jimmyfielding)
 <br />
 <br />
-Hi, I'm Jim Fielding, a passionate software engineer from London. I'm a platform engineer at [Popsa](https://popsa.com/).
+Hi, I'm Jim Fielding, a passionate software engineer from London. I'm a senior software engineer at [Attest](https://www.askattest.com/).
 
 - 🔭 I’m currently working on an artifact metadata project called Odin
 - 🌱 Interested in dev-ops, compilers and machine learning
