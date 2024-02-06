@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![GitHub jimmyfielding](https://img.shields.io/github/followers/jimmyfielding?label=follow&style=social)](https://github.com/jimmyfielding)
 <br />
 <br />
-Hi, I'm Jim Fielding, a passionate software engineer from London. I'm a founding engineer at a stealth mode startup and a professional whiteboard artist.
+Hi, I'm Jim Fielding, a professional whiteboard artist.
